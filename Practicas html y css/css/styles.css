@@ -1,0 +1,76 @@
+body{
+    background-color: rgba(15, 15, 15, 0.992);
+}
+h1{
+    color: rgb(0, 156, 208);
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 10% 50px 10%; 
+}
+h3{
+    color: red;
+    font-style: italic;
+    letter-spacing: 1px;
+
+}
+img{
+    color: white;
+}
+.opciones{
+    color:rgb(42, 156, 0);
+    font-size: 140%;
+    text-transform: capitalize;
+    line-height: 350%;
+}
+.inicioSesion{
+    color: rgb(0, 128, 115);
+    text-transform: capitalize;
+    line-height: 40px;
+    text-decoration: none;
+}
+.punto{
+    color: rgb(0, 128, 115);
+    line-height: 40px;
+    font-size: 150%
+}
+.dates{
+    border: 4px groove rgb(13, 90, 234);
+    height: 250px;
+    width: 100%;
+    border-radius: 6px;
+}
+.getDates{
+    margin: 30px 35% 0 35%;
+    border: none;
+    border-bottom: 3px solid rgb(0, 255, 0);
+    border-radius: 0 0 5px 5px ;
+    background-color: rgba(255, 255, 255, 0.178);
+    width: 30%;
+    padding: 6px 9px;
+    color: white;
+}
+.button{
+    margin: 30px 43% 0 43%;
+    width: 14%
+}
+.information{
+
+    color: rgb(157, 2, 157);
+    text-align: justify;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 100px;
+    margin-top: -84%;
+    margin-left: 50%;
+    width: 50%;
+}
+.Menu{
+    border: 3px solid rgb(2, 102, 160);
+    width: 250px;
+    padding: 20% 20px 20% 40px;
+    border-radius: 9px;
+    background-color: rgba(0, 31, 78, 0.312);
+}
+strong{
+    color: blue;
+}
